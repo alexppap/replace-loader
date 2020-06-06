@@ -1,0 +1,25 @@
+{
+  "name": "replace-loader",
+  "version": "1.0.0",
+  "description": "a practice loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexppap/replace-loader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexppap/replace-loader/issues"
+  },
+  "homepage": "https://github.com/alexppap/replace-loader#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
